@@ -1,0 +1,17 @@
+{
+    "name": "sbuerk/repo-old",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SBUERK\\RepoOld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stefan Bürk",
+            "email": "stefan@buerk.tech"
+        }
+    ],
+    "require": {}
+}
