@@ -14,7 +14,10 @@
         }
     ],
     "require": {},
+    "conflict": {
+        "sbuerk/repo-old": ">=3.0.0"
+    },
     "replace": {
-        "sbuerk/repo-old": "self.version"
+        "sbuerk/repo-old": "*"
     }
 }
