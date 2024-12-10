@@ -13,5 +13,8 @@
             "email": "stefan@buerk.tech"
         }
     ],
-    "require": {}
+    "require": {},
+    "replace": {
+        "sbuerk/repo-old": "self.version"
+    }
 }
