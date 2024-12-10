@@ -1,6 +1,7 @@
 repo renaming test
 ------------------
 
+* PR 123
 
 ## Changelog
 
