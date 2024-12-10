@@ -2,6 +2,7 @@ repo renaming test
 ------------------
 
 * 2.x. commit 1
+* 3.x. commit 2
 
 ## Changelog
 
