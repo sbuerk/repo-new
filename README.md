@@ -6,6 +6,7 @@ repo renaming test
 
 ## Changelog
 
+* RELEASE 3.0.0
 * RELEASE 2.0.1
 * RELEASE 2.0.0
 * RELEASE 1.0.0
